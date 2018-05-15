@@ -5,7 +5,7 @@
   },
   "url": "http://touchpunch.furf.com/",
   "lib": ".",
-  "main": "jquery.ui.touch-punch.min.js",
+  "main": "jquery.ui.touch-punch.js",
   "version": "1.0.0",
   "repository": {
     "type": "git",
